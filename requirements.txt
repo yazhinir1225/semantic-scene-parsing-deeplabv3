@@ -1,0 +1,26 @@
+# Core deep learning
+torch==2.6.0
+torchvision==0.21.0
+
+# Data handling & numerics
+numpy==1.26.4
+Pillow==10.2.0
+opencv-python==4.9.0.80
+
+# Visualization & web app
+streamlit==1.32.0
+matplotlib==3.8.3
+plotly==5.19.0
+
+# Progress bars & utilities
+tqdm==4.66.2
+
+# Metrics
+scikit-learn==1.4.1
+
+# File handling
+requests==2.31.0
+zipfile36==0.1.3
+
+# Logging
+tensorboard==2.16.2
